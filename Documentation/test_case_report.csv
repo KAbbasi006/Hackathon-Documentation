@@ -1,0 +1,7 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Remarks
+TC001,Validate Product Listing,Open product page,Products displayed correctly,Products displayed correctly,Passed,Low,No issue
+TC002,Test Add to Cart Functionality,"Add, update, remove items in cart",Cart updates correctly,Cart updates correctly,Passed,Medium,No issue
+TC003,API Testing,Test API response using ThunderClient,API responds correctly,API responds correctly,Passed,Medium,No issue
+TC004,Ensure Responsiveness,"Resize browser window, check layout",Layout adjusts properly,Layout adjusts properly,Passed,Medium,No issue
+TC005,Validate Filter and Search,"Apply filters, perform a search",Accurate filter and search results displayed,Search returned incorrect results (fixed),Passed,High,"Issue in search, refined query logic"
+TC006,Verify Dynamic Routing,Navigate dynamic routes,Routes load without errors,Routes load without errors,Passed,Medium,No issue
