@@ -1,0 +1,14 @@
+Metric,Value
+GTmetrix Grade,A (100%)
+Performance Score,100%
+Structure Score,94%
+Largest Contentful Paint (LCP),279ms
+Total Blocking Time (TBT),0ms
+Cumulative Layout Shift (CLS),0.05
+Fully Loaded Time,999ms
+Total Page Size,608KB
+Total Page Requests,49
+First Contentful Paint (FCP),187ms
+Time to Interactive,187ms
+Speed Index,224ms
+Onload Time,248ms
